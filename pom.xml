@@ -27,8 +27,8 @@
   </repositories>
 
   <scm>
-    <connection>scm:git:https://github.com/OneBusAway/onebusaway-gtfs-modules.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/OneBusAway/onebusaway-gtfs-modules.git</developerConnection>
+    <connection>scm:git:https://github.com/sdjacobs/onebusaway-gtfs-modules.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/sdjacobs/onebusaway-gtfs-modules.git</developerConnection>
     <url>https://github.com/sdjacobs/onebusaway-gtfs-modules</url>
   </scm>
 
